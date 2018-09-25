@@ -6,24 +6,24 @@ When set up a new csv file, I pull it from the github to local computer and run 
 
 I put all the material in  subfolder Lab3_xj655
 The screen shot of history before deleting is
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/Lab3_xj655/img/Screen%20Shot%20test.png)
+![Alt text](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/Lab3_xj655/img/Screen%20Shot%20before%20delete_history.png)
 The screen shot of history after deleting is
-![Alt text]()
+![Alt text](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/Lab3_xj655/img/Screen%20Shot%20after%20delete%20history.png)
 
 # HW3-2
 Read the data from NYC open data csv link and json API and to do the preliminary purifying and ploting
-()
+(https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/HW3_2_Read_data.ipynb)
 
 
 # HW3-3
-+ [show_bus_location_xj655.py]()
++ [show_bus_location_xj655.py](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/show_bus_location_xj655.py)
 This py file  scraped data through API key to get the real-time bus line data info
 To run the file, put the following code in terminal
 >py show_bus_location_xj655.py   <API KEY>   <BUS LINE> 
 
 # HW3-4
-+[get_bus_info_xj655.py]()
++[get_bus_info_xj655.py](https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW3_xj655/get_bus_info_xj655.py)
 This py file scrape ata through API key to get the real-time next stop bus info,  and the output is a csv file list the info. Need one more input than HW3-3
 >py get_bus_info_xj655.py <API KEY>  <BUS line> <BUS LINE.csv>
 
