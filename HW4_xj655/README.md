@@ -5,7 +5,7 @@
 + plot the mean(extra credit)
 (https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW4_xj655/HW4_Assignment1_xj655.ipynb)
 
-## Assignment2-Group Work
+## Assignment2-Group Work(Member name and contribution are in notebook)
 + get the citibike data for 201501 and make the hypothesis/idea that usertype for subscribers( not customers) use more bike at weekdays.
 (https://github.com/jingxiaorobin/PUI2018_xj655/blob/master/HW4_xj655/HW4_Assignment2_Citibikes_Usertype_xj655.ipynbz0
 
