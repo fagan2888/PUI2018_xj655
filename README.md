@@ -1,3 +1,3 @@
-# Xiao Jing Homework for- PUI2018
-## NetID xj655
+#  Homework for- PUI2018 Python
+## Author Xiao Jing(NetID xj655)
 
