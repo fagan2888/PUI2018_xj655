@@ -4,7 +4,7 @@
 ## Assignment 1
 Time series (ARMA) + Random Forest Classificaiton  deal with subway dataset.
 Data structure: 600  stations * 23 ride card types * 194 weeks 
-
+https://github.com/jingxiaorobin/PUI2018_xj655/raw/master/HW11_xj655/HW11_subway_timeseries_xj655.ipynb
 
 ## Assignment 2
 HW8 Revised
